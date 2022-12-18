@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KalpanaBandekar
+- 👋 Hi, I’m Kalpana Bandekar
 - 👀 I’m interested in Data Analyst
 - 👩‍💻Currently working as Funnel Developer
 - 🌱 I’m currently learning Data Analytics
