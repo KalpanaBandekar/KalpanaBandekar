@@ -9,9 +9,9 @@ I'm committed to continuous learning, pursuing relevant courses like Data Analyt
 My passion for data and its potential to fuel growth drives me. I look forward to collaborating with like-minded professionals and contributing fresh insights to your team. 
 
 Here are some ideas to get you started:
-- 👩‍💻Currently working as Funnel Developer
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Analytics
+- 👩‍💻Currently working as Funnel Designer in Digital Marketing Agency
+- 👀 I’m interested in Data Analyst 
+- 🌱 I’m currently learning about Data Analytics
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 How to reach me Email: kalpanabandekar1955@gmail.com
 - 👩‍💻Coonect Me On Linkedin Profile: https://www.linkedin.com/in/kalpana-bandekar/
