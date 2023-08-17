@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Data Analytics
 - 💞️ I’m looking to collaborate on Data Analysis Project
 - 📫 How to reach me Email: kalpanabandekar1955@gmail.com
-- 👩‍💻Coonect Me On Linkedin Profile: https://www.linkedin.com/in/kalpana-bandekar/
+- 👩‍💻Connect Me On Linkedin Profile: https://www.linkedin.com/in/kalpana-bandekar/
 
 <!---
 KalpanaBandekar/KalpanaBandekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
