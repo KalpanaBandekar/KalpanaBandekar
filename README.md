@@ -1,6 +1,6 @@
 👋 Hi, I’m Kalpana Bandekar
 
-Having dedicated 2.5 years to the role of a sales funnel designer, I am now embarking on a career transition to assume the position of a data analyst. This move reflects my commitment to leveraging analytical insights in a new capacity to drive informed decision-making and strategic outcomes.
+Having dedicated 3 years to the role of a sales funnel designer, I am now embarking on a career transition to assume the position of a data analyst. This move reflects my commitment to leveraging analytical insights in a new capacity to drive informed decision-making and strategic outcomes.
 
 With a strong digital marketing background, I'm excited to delve into data analysis. My experience in sales funnels has equipped me with valuable insights into customer behavior and trends. I'm skilled in using data visualization tools, spreadsheets, and marketing analytics platforms. As I shift gears, I'm enthusiastic about extracting actionable insights from complex datasets and aiding informed decision-making.
 
